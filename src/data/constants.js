@@ -24,7 +24,7 @@ export const Bio = {
     "As a dynamic and resourceful individual, I thrive on tackling new adventures and challenges. My insatiable curiosity fuels my passion for learning, driving me to exceed expectations and deliver excellence. With an optimistic spirit and a growth-driven mindset, I'm poised to leave a lasting impact and embark on a journey of remarkable achievements.",
   github: "https://github.com/akhil125554",
   resume:
-    "https://drive.google.com/file/d/1PKnRSWlyFg0_FxH5NUlAe7gyV9nMistg/view?usp=sharing",
+    "https://drive.google.com/file/d/1oLy3Ixof-s2GD6JnLYy1uiqbuv0pSkjN/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/alla-akhil-chowdary-332781255/",
   twitter: "https://x.com/akhil12555",
   insta: "https://www.instagram.com/_akhil._.chowdary._/",
