@@ -10,6 +10,7 @@ import aws from "../images/aws.png"
 import cat from "../images/cat.png"
 import portf from "../images/portf.png"
 import tw from "../images/tww.png"
+import col from "../images/colab_img.png"
 
 
 export const Bio = {
@@ -165,11 +166,7 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1767px-Jupyter_logo.svg.png",
       },
-      {
-        name: "Google Colab",
-        image:
-          "https://assets.stickpng.com/images/63c2e4c9c4baad4ce22bf9ef.png",
-      },
+      
       {
         name: "Sk Learn Kit",
         image:
@@ -195,11 +192,32 @@ export const skills = [
         image:
           "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png?20210804221519",
       },
+      {
+        name: "Google Colab",
+        image:
+          col,
+      },
     ],
   },
 ];
 
 export const experiences = [
+ 
+  {
+    id: 1,
+    img: sunsoft,
+    role: "Software Development Intern",
+    company: "Sunsoft Solutions",
+    date: "July 2024 - Current",
+    desc: "Developed and maintained web scraping scripts using Playwright to extract and process large datasets from various web applications",
+    skills: [
+      "Web Scraping",
+      "Typescript",
+      "Software Development",
+    ],
+    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
+  },
+
   {
     id: 0,
     img: scora,
@@ -214,20 +232,6 @@ export const experiences = [
       "NLP",
     ],
     doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Screenshot%20from%202024-01-25%2022-38-31.png?alt=media&token=2785903f-1a4e-41f5-afd2-6adcfe56d058",
-  },
-  {
-    id: 1,
-    img: sunsoft,
-    role: "Software Development Intern",
-    company: "Sunsoft Solutions",
-    date: "July 2024 - Current",
-    desc: "Developed and maintained web scraping scripts using Playwright to extract and process large datasets from various web applications",
-    skills: [
-      "Web Scraping",
-      "Typescript",
-      "Software Development",
-    ],
-    doc: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/1691181448873.jpeg?alt=media&token=ee85eb8f-7247-43cd-9a1d-ce9f58ea62a6",
   },
 ];
 
